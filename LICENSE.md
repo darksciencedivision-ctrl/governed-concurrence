@@ -1,0 +1,33 @@
+# License
+
+**Governed Concurrence Orchestration**
+
+Copyright (c) 2026 Samuel Lawson (Dark Science Division). All rights not expressly granted below are reserved.
+
+This work (the thesis, README, and provenance record) is licensed under the
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+
+Under this license you are free to:
+
+- **Share** — copy and redistribute the material in any medium or format, in unmodified form.
+
+Under the following terms:
+
+- **Attribution (BY)** — You must give appropriate credit to Samuel Lawson, provide a link to this
+  license, and indicate if any changes were made. You may not do so in any way that suggests
+  the author endorses you or your use.
+- **NonCommercial (NC)** — You may not use the material for commercial purposes.
+- **NoDerivatives (ND)** — If you remix, transform, or build upon the material, you may not
+  distribute the modified material.
+
+No additional restrictions — you may not apply legal terms or technological measures that
+legally restrict others from doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+**Scope notes.**
+
+1. This license governs the *expression* of the work (text and figures). It does not,
+   and cannot, restrict independent implementation or discussion of the underlying concepts.
+2. Permissions beyond the scope of this license (commercial use, derivative works,
+   translations) may be requested from the author.

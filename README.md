@@ -1,5 +1,9 @@
 ﻿# Governed Concurrence Orchestration
 
+Working position paper. Not peer reviewed.
+
+Author of record: Samuel Lawson.
+
 **Thesis:** intelligence in LLM-based systems emerges from governed multi-model debate that
 withholds output **until concurrence is reached, not forced**, converting disagreement into
 bounded, targeted research and debate cycles instead of votes, judges, or averaged consensus.
