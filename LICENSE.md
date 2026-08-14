@@ -27,7 +27,9 @@ Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 **Scope notes.**
 
-1. This license governs the *expression* of the work (text and figures). It does not,
+1. This license governs the *expression* of the work (text, figures, diagrams). It does not,
    and cannot, restrict independent implementation or discussion of the underlying concepts.
+   Attribution for the Adversarial Trajectory Graph concept is requested per the suggested
+   citation in CITATION.cff and Appendix F of the thesis.
 2. Permissions beyond the scope of this license (commercial use, derivative works,
    translations) may be requested from the author.

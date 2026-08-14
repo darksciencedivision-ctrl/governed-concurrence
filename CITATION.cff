@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Governed Concurrence Orchestration"
+authors:
+  - family-names: Lawson
+    given-names: Samuel
+date-released: "2026-07-13"
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/darksciencedivision-ctrl/governed-concurrence"

@@ -1,4 +1,4 @@
-﻿# Provenance Record
+# Provenance Record
 
 | Field | Value |
 |---|---|
